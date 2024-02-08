@@ -60,6 +60,6 @@ def is_pdf_scanned(pdf_path):
         return False
 
 if __name__ == "__main__":
-    mypdf = r"C:\Users\ASUS\Desktop\HThonAdo022024\nonSelectableTextPDFs\forPdfImage.pdf"
+    mypdf = r"Data/patient-record.pdf"
     result = is_pdf_scanned(mypdf)
     print(result)
