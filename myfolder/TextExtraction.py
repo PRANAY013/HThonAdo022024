@@ -3,7 +3,6 @@ from PIL import Image
 import pytesseract
 import io
 from SelectableTextOrNot import is_pdf_scanned
-import cv2
 
 def extract_text_combined(pdf_path):
     if is_pdf_scanned(pdf_path):
