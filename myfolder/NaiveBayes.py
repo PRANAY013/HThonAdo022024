@@ -60,8 +60,8 @@ def predict_category_from_text(extracted_text, model, combined_df_path):
         return None
     
 if __name__ == '__main__':
-    mypdf = r"PRANAY013/HThonAdo022024/Data/patient-record.pdf"
-    mydata = r"PRANAY013/HThonAdo022024/Data/combined_data.csv"
+    mypdf = r"Data/patient-record.pdf"
+    mydata = r"Data/combined_data.csv"
     text = extract_text_combined(mypdf)
     category = predict_category_from_text(text,model=None,combined_df_path=mydata)
     print(category)
