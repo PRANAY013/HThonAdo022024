@@ -2,23 +2,6 @@ import fitz
 import pytesseract
 from PIL import Image
 
-def extract_text_from_pdf(pdf_path):
-    try:
-        pdf_document = fitz.open(pdf_path)
-        text = ""
-
-        for page_number in range(pdf_document.page_count):
-            page = pdf_document[page_number]
-            
-            # Extract text from page
-            text += page.get_text()
-
-        return text
-
-    except Exception as e:
-        print(f"Error while extracting text from PDF: {e}")
-        return None
-
 def is_pdf_scanned(pdf_path):
     try:
         pdf_document = fitz.open(pdf_path)
