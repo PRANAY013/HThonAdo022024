@@ -1,0 +1,1382 @@
+word,category
+financial,educational
+statement,educational
+balance,educational
+sheet,educational
+income,educational
+cash,educational
+flow,educational
+assets,educational
+liabilities,educational
+textbooks,educational
+workbooks,educational
+worksheets,educational
+handouts,educational
+lesson,educational
+plans,educational
+study,educational
+guides,educational
+flashcards,educational
+educational,educational
+games,educational
+interactive,educational
+whiteboards,educational
+visual,educational
+aids,educational
+audiovisual,educational
+materials,educational
+manipulatives,educational
+teaching,educational
+reference,educational
+books,educational
+software,educational
+online,educational
+courses,educational
+e-books,educational
+videos,educational
+learning,educational
+modules,educational
+posters,educational
+activity,educational
+sheets,educational
+assessment,educational
+lab,educational
+equipment,educational
+models,educational
+puzzles,educational
+toys,educational
+multimedia,educational
+resources,educational
+digital,educational
+databases,educational
+apps,educational
+simulations,educational
+classroom,educational
+displays,educational
+demonstrations,educational
+graphic,educational
+organizers,educational
+activities,educational
+kits,educational
+diagrams,educational
+presentations,educational
+experiments,educational
+tutorials,educational
+websites,educational
+projects,educational
+science,educational
+articles,educational
+podcasts,educational
+quizzes,educational
+maps,educational
+infographics,educational
+documents,educational
+handbooks,educational
+questionnaires,educational
+exercises,educational
+manuals,educational
+blueprints,educational
+portfolios,educational
+outlines,educational
+agendas,educational
+objectives,educational
+summaries,educational
+schedules,educational
+activity,educational
+questions,educational
+examples,educational
+exercises,educational
+definitions,educational
+diagrams,educational
+problems,educational
+solutions,educational
+illustrations,educational
+notes,educational
+annotations,educational
+appendix,educational
+bibliography,educational
+case,educational
+studies,educational
+chapter,educational
+reviews,educational
+conclusions,educational
+glossary,educational
+index,educational
+introduction,educational
+objectives,educational
+outcomes,educational
+preparation,educational
+questions,educational
+reviews,educational
+key,educational
+terms,educational
+summary,educational
+supplemental,educational
+reading,educational
+syllabus,educational
+teaching,educational
+materials,educational
+test,educational
+questions,educational
+units,educational
+vocabulary,educational
+workshops,educational
+financial,financial
+statement,financial
+balance,financial
+sheet,financial
+income,financial
+cash,financial
+flow,financial
+assets,financial
+liabilities,financial
+equity,financial
+revenue,financial
+expenses,financial
+profit,financial
+loss,financial
+net,financial
+gross,financial
+margin,financial
+operating,financial
+cost,financial
+depreciation,financial
+amortization,financial
+interest,financial
+tax,financial
+ebitda,financial
+audit,financial
+accounting,financial
+bookkeeping,financial
+ledger,financial
+transaction,financial
+bank,financial
+loan,financial
+credit,financial
+debit,financial
+investment,financial
+dividend,financial
+share,financial
+stock,financial
+bond,financial
+market,financial
+value,financial
+return,financial
+risk,financial
+rate,financial
+currency,financial
+exchange,financial
+foreign,financial
+hedging,financial
+derivative,financial
+valuation,financial
+portfolio,financial
+management,financial
+capital,financial
+budget,financial
+forecast,financial
+analysis,financial
+liquidity,financial
+solvency,financial
+efficiency,financial
+ratio,financial
+benchmark,financial
+reporting,financial
+disclosure,financial
+standard,financial
+gaap,financial
+ifrs,financial
+sec,financial
+annual,financial
+quarterly,financial
+fiscal,financial
+year,financial
+earnings,financial
+recognition,financial
+expenditure,financial
+operating,financial
+investing,financial
+financing,financial
+working,financial
+receivable,financial
+payable,financial
+debt,financial
+ebit,financial
+profitability,financial
+income,financial
+expense,financial
+amortization,financial
+turnover,financial
+investment,financial
+dcf,financial
+npv,financial
+write-off,financial
+reserves,financial
+revaluation,financial
+per,financial
+share,financial
+eps,financial
+yield,financial
+coverage,financial
+roa,financial
+roe,financial
+dcf,financial
+npv,financial
+compliance,financial
+fraud,financial
+divestiture,financial
+merger,financial
+acquisition,financial
+model,financial
+forecasting,financial
+projections,financial
+benchmarking,financial
+medical,medical
+patient,medical
+record,medical
+medical,medical
+history,medical
+examination,medical
+diagnosis,medical
+treatment,medical
+prescription,medical
+medication,medical
+dosage,medical
+symptoms,medical
+condition,medical
+allergies,medical
+vital,medical
+signs,medical
+lab,medical
+results,medical
+procedure,medical
+consultation,medical
+referral,medical
+insurance,medical
+coverage,medical
+billing,medical
+payment,medical
+appointment,medical
+follow-up,medical
+admission,medical
+discharge,medical
+prognosis,medical
+recovery,medical
+disability,medical
+genetic,medical
+screening,medical
+immunization,medical
+counseling,medical
+therapy,medical
+rehabilitation,medical
+preventive,medical
+care,medical
+surgery,medical
+anesthesia,medical
+complication,medical
+medication,medical
+interaction,medical
+side,medical
+effects,medical
+pharmacy,medical
+dispense,medical
+dosage,medical
+compliance,medical
+healthcare,medical
+provider,medical
+physician,medical
+nurse,medical
+specialist,medical
+pharmacist,medical
+paramedic,medical
+laboratory,medical
+technician,medical
+radiologist,medical
+dietician,medical
+anesthesiologist,medical
+phlebotomist,medical
+insurance,medical
+company,medical
+policy,medical
+coverage,medical
+benefits,medical
+claim,medical
+authorization,medical
+deductible,medical
+copayment,medical
+hipaa,medical
+privacy,medical
+informed,medical
+consent,medical
+advance,medical
+directive,medical
+emergency,medical
+contact,medical
+medical,medical
+history,medical
+family,medical
+history,medical
+genetic,medical
+information,medical
+primary,medical
+care,medical
+specialty,medical
+care,medical
+emergency,medical
+care,medical
+urgent,medical
+care,medical
+chronic,medical
+acute,medical
+prognosis,medical
+diagnosis,medical
+treatment,medical
+medication,medical
+prescription,medical
+referral,medical
+laboratory,medical
+test,medical
+imaging,medical
+scan,medical
+procedure,medical
+surgery,medical
+recovery,medical
+follow-up,medical
+complication,medical
+symptom,medical
+pain,medical
+discomfort,medical
+fatigue,medical
+nausea,medical
+dizziness,medical
+shortness,medical
+of,medical
+breath,medical
+fever,medical
+headache,medical
+insomnia,medical
+depression,medical
+anxiety,medical
+diet,medical
+exercise,medical
+lifestyle,medical
+smoking,medical
+alcohol,medical
+substance,medical
+abuse,medical
+screening,medical
+vaccination,medical
+immunization,medical
+preventive,medical
+care,medical
+wellness,medical
+health,medical
+education,medical
+counseling,medical
+rehabilitation,medical
+physical,medical
+therapy,medical
+occupational,medical
+therapy,medical
+speech,medical
+therapy,medical
+assistive,medical
+devices,medical
+home,medical
+care,medical
+hospice,medical
+care,medical
+palliative,medical
+care,medical
+insurance,medical
+claim,medical
+billing,medical
+payment,medical
+coverage,medical
+authorization,medical
+deductible,medical
+copayment,medical
+out-of-pocket,medical
+eob,medical
+explanation,medical
+of,medical
+benefits,medical
+support,medical
+doctor,medical
+paramedics,medical
+psychiatric,medical
+psychiatrist,medical
+story,creative writing
+plot,creative writing
+character,creative writing
+setting,creative writing
+conflict,creative writing
+resolution,creative writing
+theme,creative writing
+mood,creative writing
+tone,creative writing
+atmosphere,creative writing
+imagery,creative writing
+description,creative writing
+dialogue,creative writing
+monologue,creative writing
+soliloquy,creative writing
+prose,creative writing
+poetry,creative writing
+verse,creative writing
+rhyme,creative writing
+meter,creative writing
+stanza,creative writing
+line,creative writing
+phrase,creative writing
+symbolism,creative writing
+allegory,creative writing
+metaphor,creative writing
+simile,creative writing
+personification,creative writing
+hyperbole,creative writing
+irony,creative writing
+foreshadowing,creative writing
+flashback,creative writing
+suspense,creative writing
+surprise,creative writing
+twist,creative writing
+turn,creative writing
+revelation,creative writing
+climax,creative writing
+anticlimax,creative writing
+denouement,creative writing
+point,creative writing
+view,creative writing
+first-person,creative writing
+second-person,creative writing
+third-person,creative writing
+limited,creative writing
+omniscient,creative writing
+stream,creative writing
+consciousness,creative writing
+narrative,creative writing
+protagonist,creative writing
+antagonist,creative writing
+supporting,creative writing
+minor,creative writing
+dynamic,creative writing
+static,creative writing
+round,creative writing
+flat,creative writing
+foil,creative writing
+archetype,creative writing
+hero,creative writing
+villain,creative writing
+sidekick,creative writing
+mentor,creative writing
+love,creative writing
+interest,creative writing
+internal,creative writing
+external,creative writing
+self,creative writing
+nature,creative writing
+society,creative writing
+fate,creative writing
+machine,creative writing
+supernatural,creative writing
+subplot,creative writing
+backstory,creative writing
+exposition,creative writing
+rising,creative writing
+action,creative writing
+falling,creative writing
+frame,creative writing
+hook,creative writing
+incident,creative writing
+catalyst,creative writing
+midpoint,creative writing
+reversal,creative writing
+dilemma,creative writing
+peripeteia,creative writing
+catastrophe,creative writing
+epiphany,creative writing
+epilogue,creative writing
+conclusion,creative writing
+closure,creative writing
+writer's,creative writing
+block,creative writing
+inspiration,creative writing
+muse,creative writing
+creativity,creative writing
+imagination,creative writing
+artistry,creative writing
+craft,creative writing
+technique,creative writing
+style,creative writing
+voice,creative writing
+language,creative writing
+diction,creative writing
+syntax,creative writing
+grammar,creative writing
+punctuation,creative writing
+choice,creative writing
+figurative,creative writing
+device,creative writing
+alliteration,creative writing
+assonance,creative writing
+onomatopoeia,creative writing
+consonance,creative writing
+repetition,creative writing
+parallelism,creative writing
+anaphora,creative writing
+epistrophe,creative writing
+chiasmus,creative writing
+metonymy,creative writing
+synecdoche,creative writing
+allusion,creative writing
+juxtaposition,creative writing
+descriptive,creative writing
+evocative,creative writing
+vivid,creative writing
+sensory,creative writing
+visually,creative writing
+auditory,creative writing
+tactile,creative writing
+olfactory,creative writing
+gustatory,creative writing
+emotional,creative writing
+thought-provoking,creative writing
+insightful,creative writing
+engaging,creative writing
+captivating,creative writing
+compelling,creative writing
+gripping,creative writing
+enthralling,creative writing
+riveting,creative writing
+suspenseful,creative writing
+thrilling,creative writing
+haunting,creative writing
+eerie,creative writing
+mysterious,creative writing
+intriguing,creative writing
+puzzling,creative writing
+enigmatic,creative writing
+surreal,creative writing
+dreamlike,creative writing
+magical,creative writing
+whimsical,creative writing
+fantastical,creative writing
+mythical,creative writing
+fairy,creative writing
+tale,creative writing
+legend,creative writing
+fable,creative writing
+folklore,creative writing
+urban,creative writing
+mystery,creative writing
+thriller,creative writing
+horror,creative writing
+fantasy,creative writing
+science,creative writing
+fiction,creative writing
+speculative,creative writing
+dystopian,creative writing
+utopian,creative writing
+historical,creative writing
+romance,creative writing
+adventure,creative writing
+action,creative writing
+comedy,creative writing
+tragedy,creative writing
+drama,creative writing
+lyric,creative writing
+sonnet,creative writing
+haiku,creative writing
+epic,creative writing
+ballad,creative writing
+limerick,creative writing
+abstract,research
+introduction,research
+background,research
+literature,research
+review,research
+methodology,research
+materials,research
+participants,research
+procedure,research
+data,research
+results,research
+analysis,research
+discussion,research
+conclusion,research
+findings,research
+implications,research
+limitations,research
+recommendations,research
+references,research
+citation,research
+bibliography,research
+hypothesis,research
+theory,research
+model,research
+concept,research
+framework,research
+variables,research
+control,research
+experimental,research
+sample,research
+population,research
+study,research
+design,research
+experimental,research
+data,research
+collection,research
+data,research
+analysis,research
+statistical,research
+regression,research
+correlation,research
+chi-square,research
+t-test,research
+anova,research
+coefficient,research
+significance,research
+confidence,research
+interval,research
+p-value,research
+standard,research
+deviation,research
+mean,research
+median,research
+mode,research
+range,research
+variance,research
+dependent,research
+independent,research
+control,research
+experimental,research
+operationalization,research
+measurement,research
+instrument,research
+questionnaire,research
+survey,research
+interview,research
+observation,research
+experiment,research
+case,research
+field,research
+laboratory,research
+systematic,research
+meta-analysis,research
+literature,research
+search,research
+research,research
+question,research
+objective,research
+aim,research
+hypothesis,research
+null,research
+alternative,research
+methodological,research
+approach,research
+paradigm,research
+data,research
+validity,research
+reliability,research
+generalizability,research
+validity,research
+external,research
+internal,research
+content,research
+construct,research
+ethical,research
+considerations,research
+informed,research
+consent,research
+confidentiality,research
+privacy,research
+protection,research
+human,research
+subjects,research
+animal,research
+welfare,research
+research,research
+ethics,research
+peer,research
+review,research
+publication,research
+open,research
+access,research
+impact,research
+factor,research
+citation,research
+index,research
+description,technical
+features,technical
+specifications,technical
+functions,technical
+components,technical
+parts,technical
+installation,technical
+setup,technical
+configuration,technical
+assembly,technical
+compatibility,technical
+requirements,technical
+system,technical
+hardware,technical
+software,technical
+getting,technical
+started,technical
+quick,technical
+start,technical
+guide,technical
+user,technical
+manual,technical
+owner's,technical
+manual,technical
+instruction,technical
+manual,technical
+guide,technical
+handbook,technical
+reference,technical
+guide,technical
+troubleshooting,technical
+problems,technical
+solutions,technical
+faqs,technical
+troubleshooting,technical
+guide,technical
+maintenance,technical
+cleaning,technical
+care,technical
+storage,technical
+warranty,technical
+safety,technical
+precautions,technical
+warning,technical
+caution,technical
+important,technical
+attention,technical
+notes,technical
+tips,technical
+recommendations,technical
+best,technical
+practices,technical
+usage,technical
+operation,technical
+control,technical
+interface,technical
+display,technical
+menu,technical
+options,technical
+settings,technical
+modes,technical
+operation,technical
+guide,technical
+usage,technical
+instructions,technical
+how-to,technical
+procedures,technical
+processes,technical
+workflow,technical
+workflow,technical
+diagram,technical
+illustration,technical
+schematic,technical
+drawing,technical
+label,technical
+legend,technical
+key,technical
+glossary,technical
+index,technical
+table,technical
+of,technical
+contents,technical
+section,technical
+chapter,technical
+heading,technical
+subheading,technical
+bullet,technical
+point,technical
+list,technical
+table,technical
+chart,technical
+graph,technical
+image,technical
+picture,technical
+screenshot,technical
+animation,technical
+video,technical
+audio,technical
+appendix,technical
+examples,technical
+case,technical
+studies,technical
+usage,technical
+scenarios,technical
+technical,technical
+documentation,technical
+instructional,technical
+materials,technical
+educational,technical
+resources,technical
+training,technical
+materials,technical
+user,technical
+support,technical
+help,technical
+resources,technical
+customer,technical
+support,technical
+feedback,technical
+government,government
+official,government
+document,government
+office,government
+agency,government
+department,government
+administration,government
+authority,government
+bureau,government
+ministry,government
+commission,government
+division,government
+branch,government
+section,government
+unit,government
+directorate,government
+board,government
+committee,government
+council,government
+task,government
+force,government
+advisory,government
+regulation,government
+policy,government
+procedure,government
+guideline,government
+directive,government
+protocol,government
+legislation,government
+law,government
+act,government
+statute,government
+code,government
+ordinance,government
+regulation,government
+rule,government
+bylaw,government
+order,government
+decree,government
+executive,government
+order,government
+presidential,government
+decree,government
+memorandum,government
+circular,government
+notice,government
+announcement,government
+notification,government
+correspondence,government
+letter,government
+email,government
+memo,government
+report,government
+briefing,government
+summary,government
+minutes,government
+agenda,government
+resolution,government
+statement,government
+declaration,government
+press,government
+release,government
+speech,government
+address,government
+communique,government
+statement,government
+proposal,government
+recommendation,government
+request,government
+application,government
+form,government
+submission,government
+permit,government
+license,government
+certificate,government
+authorization,government
+registration,government
+approval,government
+verification,government
+validation,government
+accreditation,government
+authentication,government
+confirmation,government
+endorsement,government
+compliance,government
+review,government
+evaluation,government
+assessment,government
+audit,government
+inspection,government
+investigation,government
+inquiry,government
+research,government
+study,government
+analysis,government
+assessment,government
+evaluation,government
+monitoring,government
+surveillance,government
+oversight,government
+control,government
+supervision,government
+management,government
+administration,government
+coordination,government
+collaboration,government
+cooperation,government
+partnership,government
+agreement,government
+contract,government
+treaty,government
+accord,government
+memorandum,government
+of,government
+understanding,government
+(mou),government
+protocol,government
+pact,government
+alliance,government
+coalition,government
+compact,government
+covenant,government
+entente,government
+convention,government
+negotiation,government
+mediation,government
+arbitration,government
+diplomacy,government
+dialogue,government
+discussion,government
+consultation,government
+meeting,government
+conference,government
+summit,government
+session,government
+roundtable,government
+workshop,government
+seminar,government
+training,government
+orientation,government
+induction,government
+development,government
+program,government
+initiative,government
+project,government
+task,government
+sender,business correspondence
+recipient,business correspondence
+subject,business correspondence
+body,business correspondence
+attachment,business correspondence
+inbox,business correspondence
+outbox,business correspondence
+drafts,business correspondence
+sent,business correspondence
+items,business correspondence
+trash,business correspondence
+junk,business correspondence
+mail,business correspondence
+forward,business correspondence
+reply,business correspondence
+cc,business correspondence
+bcc,business correspondence
+signature,business correspondence
+header,business correspondence
+footer,business correspondence
+priority,business correspondence
+flag,business correspondence
+mark,business correspondence
+read,business correspondence
+unread,business correspondence
+archive,business correspondence
+folder,business correspondence
+filter,business correspondence
+search,business correspondence
+sort,business correspondence
+spam,business correspondence
+label,business correspondence
+preview,business correspondence
+dear,business correspondence
+sincerely,business correspondence
+regards,business correspondence
+thank,business correspondence
+please,business correspondence
+attached,business correspondence
+enclosed,business correspondence
+reference,business correspondence
+inquire,business correspondence
+email,business correspondence
+appreciate,business correspondence
+prompt,business correspondence
+apologize,business correspondence
+inconvenience,business correspondence
+cooperation,business correspondence
+greatly,business correspondence
+appreciated,business correspondence
+hesitate,business correspondence
+contact,business correspondence
+questions,business correspondence
+best,business correspondence
+faithfully,business correspondence
+look,business correspondence
+forward,business correspondence
+hearing,business correspondence
+soon.,business correspondence
+corporate,business correspondence
+professional,business correspondence
+management,business correspondence
+executive,business correspondence
+leadership,business correspondence
+teamwork,business correspondence
+collaboration,business correspondence
+strategy,business correspondence
+planning,business correspondence
+organization,business correspondence
+efficiency,business correspondence
+productivity,business correspondence
+innovation,business correspondence
+excellence,business correspondence
+quality,business correspondence
+integrity,business correspondence
+ethics,business correspondence
+accountability,business correspondence
+responsibility,business correspondence
+authority,business correspondence
+decision-making,business correspondence
+communication,business correspondence
+negotiation,business correspondence
+diplomacy,business correspondence
+networking,business correspondence
+relationship,business correspondence
+partnership,business correspondence
+cooperation,business correspondence
+synergy,business correspondence
+collaboration,business correspondence
+coordination,business correspondence
+liaison,business correspondence
+interaction,business correspondence
+engagement,business correspondence
+initiative,business correspondence
+resourcefulness,business correspondence
+adaptability,business correspondence
+flexibility,business correspondence
+resilience,business correspondence
+problem-solving,business correspondence
+critical,business correspondence
+thinking,business correspondence
+analytical,business correspondence
+strategic,business correspondence
+visionary,business correspondence
+goal-oriented,business correspondence
+results-driven,business correspondence
+performance,business correspondence
+achievement,business correspondence
+success,business correspondence
+progress,business correspondence
+development,business correspondence
+growth,business correspondence
+expansion,business correspondence
+market,business correspondence
+competition,business correspondence
+customer,business correspondence
+client,business correspondence
+stakeholder,business correspondence
+shareholder,business correspondence
+investor,business correspondence
+revenue,business correspondence
+profit,business correspondence
+cost,business correspondence
+budget,business correspondence
+forecast,business correspondence
+analysis,business correspondence
+report,business correspondence
+presentation,business correspondence
+proposal,business correspondence
+recommendation,business correspondence
+decision,business correspondence
+implementation,business correspondence
+evaluation,business correspondence
+feedback,business correspondence
+review,business correspondence
+audit,business correspondence
+compliance,business correspondence
+regulation,business correspondence
+policy,business correspondence
+procedure,business correspondence
+standard,business correspondence
+benchmark,business correspondence
+headline,news
+article,news
+news,news
+report,news
+story,news
+coverage,news
+breaking,news
+latest,news
+update,news
+exclusive,news
+analysis,news
+opinion,news
+editorial,news
+feature,news
+investigative,news
+expose,news
+press,news
+media,news
+journalist,news
+reporter,news
+correspondent,news
+anchor,news
+presenter,news
+journal,news
+newspaper,news
+magazine,news
+publication,news
+release,news
+source,news
+interview,news
+quote,news
+statement,news
+fact,news
+information,news
+details,news
+evidence,news
+data,news
+statistics,news
+research,news
+findings,news
+witness,news
+eye-witness,news
+account,news
+testimony,news
+documentation,news
+proof,news
+verification,news
+confirmation,news
+clarification,news
+correction,news
+retraction,news
+update,news
+announcement,news
+event,news
+incident,news
+development,news
+trend,news
+phenomenon,news
+issue,news
+concern,news
+crisis,news
+scandal,news
+controversy,news
+debate,news
+discussion,news
+reaction,news
+response,news
+criticism,news
+comment,news
+feedback,news
+public,news
+audience,news
+reader,news
+viewer,news
+listener,news
+consumer,news
+subscriber,news
+viewer,news
+rating,news
+viewership,news
+readership,news
+circulation,news
+edition,news
+section,news
+column,news
+byline,news
+masthead,news
+dateline,news
+lead,news
+intro,news
+body,news
+conclusion,news
+summary,news
+recap,news
+synopsis,news
+background,news
+context,news
+implication,news
+impact,news
+breaking,news
+latest,news
+update,news
+exclusive,news
+report,news
+story,news
+coverage,news
+headline,news
+article,news
+news,news
+developments,news
+events,news
+incidents,news
+situations,news
+updates,news
+newsworthy,news
+press,news
+media,news
+journalist,news
+reporter,news
+correspondent,news
+anchor,news
+presenter,news
+broadcast,news
+coverage,news
+footage,news
+live,news
+interview,news
+statement,news
+announcement,news
+briefing,news
+press,news
+conference,news
+event,news
+incident,news
+accident,news
+disaster,news
+crisis,news
+emergency,news
+tragedy,news
+scandal,news
+controversy,news
+debate,news
+discussion,news
+analysis,news
+commentary,news
+opinion,news
+perspective,news
+word,category
+plaintiff,legal
+defendant,legal
+plaintiff's,legal
+defendant's,legal
+court,legal
+judgment,legal
+jurisdiction,legal
+evidence,legal
+hearsay,legal
+witness,legal
+testimony,legal
+affidavit,legal
+deposition,legal
+notary,legal
+attorney,legal
+counsel,legal
+brief,legal
+petition,legal
+complaint,legal
+summons,legal
+motion,legal
+hearing,legal
+subpoena,legal
+pleadings,legal
+discovery,legal
+verdict,legal
+appeal,legal
+precedent,legal
+contract,legal
+agreement,legal
+clause,legal
+liability,legal
+negligence,legal
+damages,legal
+breach,legal
+remedy,legal
+settlement,legal
+waiver,legal
+statute,legal
+regulation,legal
+negotiation,legal
+mediation,legal
+arbitration,legal
+amicable,legal
+consent,legal
+dismissal,legal
+judicial,legal
+legislation,legal
+constitution,legal
+due process,legal
+litigation,legal
+admissible,legal
+cross-examination,legal
+allegation,legal
+injunction,legal
+tort,legal
+plaintiff's,legal
+counsel,legal
+defendant's,legal
+counsel,legal
+briefing,legal
+camera,legal
+jurisprudence,legal
+pretrial,legal
+prosecution,legal
+defense,legal
+misdemeanor,legal
+felony,legal
+perjury,legal
+probation,legal
+parole,legal
+subpoena,legal
+duces,legal
+tecum,legal
+restitution,legal
+exclusionary,legal
+rule,legal
+precedent,legal
+testament,legal
+executor,legal
+intestate,legal
+affirmation,legal
+oath,legal
+notarize,legal
+negotiable,legal
+instrument,legal
+bail,legal
+arraignment,legal
+mitigating,legal
+circumstances,legal
+lien,legal
+adjudication,legal
+amicus,legal
+curiae,legal
+consideration,legal
+statute,legal
+limitations,legal
+contingency,legal
+terms,legal
+use,legal
+binding,legal
+agreement,legal
+disclosures,legal
+modification,legal
+regulation,legal
+liability,legal
+copyright,legal
+indemnification,legal
+contract,legal
+customer,legal
+validity,legal
+agreements,legal
+liability,legal
+consequential,legal
+incidental,legal
+special,legal
+direct,legal
+indirect,legal
