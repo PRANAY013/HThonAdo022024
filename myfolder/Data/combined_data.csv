@@ -1,4 +1,4 @@
-words,category
+word,category
 financial,educational
 statement,educational
 balance,educational
@@ -231,199 +231,6 @@ model,financial
 forecasting,financial
 projections,financial
 benchmarking,financial
-word,category
-legal,legal
-statement,legal
-balance,legal
-sheet,legal
-income,legal
-cash,legal
-flow,legal
-assets,legal
-liabilities,legal
-equity,legal
-revenue,legal
-expenses,legal
-profit,legal
-loss,legal
-net,legal
-gross,legal
-margin,legal
-operating,legal
-cost,legal
-depreciation,legal
-amortization,legal
-interest,legal
-tax,legal
-ebitda,legal
-audit,legal
-accounting,legal
-bookkeeping,legal
-ledger,legal
-transaction,legal
-bank,legal
-loan,legal
-credit,legal
-debit,legal
-investment,legal
-dividend,legal
-share,legal
-stock,legal
-bond,legal
-market,legal
-value,legal
-return,legal
-risk,legal
-rate,legal
-currency,legal
-exchange,legal
-foreign,legal
-hedging,legal
-derivative,legal
-valuation,legal
-portfolio,legal
-management,legal
-capital,legal
-budget,legal
-forecast,legal
-analysis,legal
-liquidity,legal
-solvency,legal
-efficiency,legal
-ratio,legal
-benchmark,legal
-reporting,legal
-disclosure,legal
-standard,legal
-gaap,legal
-ifrs,legal
-sec,legal
-annual,legal
-quarterly,legal
-fiscal,legal
-year,legal
-earnings,legal
-recognition,legal
-expenditure,legal
-operating,legal
-investing,legal
-financing,legal
-working,legal
-receivable,legal
-payable,legal
-debt,legal
-ebit,legal
-profitability,legal
-income,legal
-expense,legal
-amortization,legal
-turnover,legal
-investment,legal
-dcf,legal
-npv,legal
-write-off,legal
-reserves,legal
-revaluation,legal
-per,legal
-share,legal
-eps,legal
-yield,legal
-coverage,legal
-roa,legal
-roe,legal
-dcf,legal
-npv,legal
-compliance,legal
-fraud,legal
-divestiture,legal
-merger,legal
-acquisition,legal
-model,legal
-forecasting,legal
-projections,legal
-benchmarking,legal
-agreement,legal
-contract,legal
-parties,legal
-terms,legal
-conditions,legal
-payment,legal
-delivery,legal
-effective,legal
-amendment,legal
-term,legal
-termination,legal
-obligations,legal
-confidentiality,legal
-indemnification,legal
-representations,legal
-warranties,legal
-liability,legal
-jurisdiction,legal
-dispute,legal
-resolution,legal
-governing,legal
-law,legal
-compensation,legal
-mutual,legal
-binding,legal
-renewal,legal
-license,legal
-royalties,legal
-exclusivity,legal
-insurance,legal
-audit,legal
-notices,legal
-conflicts,legal
-force majeure,legal
-compliance,legal
-assignment,legal
-waiver,legal
-severability,legal
-entire agreement,legal
-execution,legal
-date,legal
-authorized,legal
-representative,legal
-survival,legal
-amendments,legal
-performance,legal
-breach,legal
-remedies,legal
-negotiate,legal
-counterparts,legal
-expenses,legal
-applicable law,legal
-confidential information,legal
-reasonable,legal
-good faith,legal
-interpretation,legal
-enforceable,legal
-invalid,legal
-void,legal
-amend,legal
-execute,legal
-ratify,legal
-understand,legal
-cooperate,legal
-recitals,legal
-approval,legal
-consent,legal
-authority,legal
-negotiation,legal
-counterparty,legal
-jurisdictional,legal
-obligated,legal
-notification,legal
-force majeure event,legal
-cooperation,legal
-binding upon,legal
-expirations,legal
-dispute arising,legal
-entire understanding,legal
-hereinafter,legal
-forthwith,legal
-word,category
 medical,medical
 patient,medical
 record,medical
@@ -599,592 +406,6 @@ doctor,medical
 paramedics,medical
 psychiatric,medical
 psychiatrist,medical
-sender,business correspondence
-recipient,business correspondence
-subject,business correspondence
-body,business correspondence
-attachment,business correspondence
-inbox,business correspondence
-outbox,business correspondence
-drafts,business correspondence
-sent,business correspondence
-items,business correspondence
-trash,business correspondence
-junk,business correspondence
-mail,business correspondence
-forward,business correspondence
-reply,business correspondence
-reply,business correspondence
-cc,business correspondence
-(carbon,business correspondence
-copy),business correspondence
-bcc,business correspondence
-(blind,business correspondence
-carbon,business correspondence
-copy),business correspondence
-signature,business correspondence
-header,business correspondence
-footer,business correspondence
-priority,business correspondence
-flag,business correspondence
-mark,business correspondence
-read,business correspondence
-mark,business correspondence
-unread,business correspondence
-archive,business correspondence
-folder,business correspondence
-filter,business correspondence
-search,business correspondence
-sort,business correspondence
-attachment,business correspondence
-spam,business correspondence
-folder,business correspondence
-label,business correspondence
-attachment,business correspondence
-preview,business correspondence
-attachment,business correspondence
-dear,business correspondence
-[recipient's,business correspondence
-name],business correspondence
-sincerely,business correspondence
-regards,business correspondence
-thank,business correspondence
-please,business correspondence
-attached,business correspondence
-enclosed,business correspondence
-reference,business correspondence
-inquire,business correspondence
-attached,business correspondence
-reference,business correspondence
-email,business correspondence
-appreciate,business correspondence
-prompt,business correspondence
-apologize,business correspondence
-inconvenience,business correspondence
-cooperation,business correspondence
-greatly,business correspondence
-appreciated,business correspondence
-hesitate,business correspondence
-contact,business correspondence
-questions,business correspondence
-best,business correspondence
-regards,business correspondence
-faithfully,business correspondence
-look,business correspondence
-forward,business correspondence
-hearing,business correspondence
-soon.,business correspondence
-corporate,business correspondence
-professional,business correspondence
-business,business correspondence
-management,business correspondence
-executive,business correspondence
-leadership,business correspondence
-teamwork,business correspondence
-collaboration,business correspondence
-strategy,business correspondence
-planning,business correspondence
-organization,business correspondence
-structure,business correspondence
-efficiency,business correspondence
-productivity,business correspondence
-innovation,business correspondence
-excellence,business correspondence
-quality,business correspondence
-integrity,business correspondence
-ethics,business correspondence
-accountability,business correspondence
-responsibility,business correspondence
-authority,business correspondence
-decision-making,business correspondence
-communication,business correspondence
-negotiation,business correspondence
-diplomacy,business correspondence
-networking,business correspondence
-relationship,business correspondence
-partnership,business correspondence
-cooperation,business correspondence
-synergy,business correspondence
-collaboration,business correspondence
-coordination,business correspondence
-liaison,business correspondence
-interaction,business correspondence
-engagement,business correspondence
-initiative,business correspondence
-resourcefulness,business correspondence
-adaptability,business correspondence
-flexibility,business correspondence
-resilience,business correspondence
-problem-solving,business correspondence
-critical,business correspondence
-thinking,business correspondence
-analytical,business correspondence
-strategic,business correspondence
-visionary,business correspondence
-goal-oriented,business correspondence
-results-driven,business correspondence
-performance,business correspondence
-achievement,business correspondence
-success,business correspondence
-progress,business correspondence
-development,business correspondence
-growth,business correspondence
-expansion,business correspondence
-market,business correspondence
-competition,business correspondence
-customer,business correspondence
-client,business correspondence
-stakeholder,business correspondence
-shareholder,business correspondence
-investor,business correspondence
-revenue,business correspondence
-profit,business correspondence
-cost,business correspondence
-budget,business correspondence
-forecast,business correspondence
-analysis,business correspondence
-report,business correspondence
-presentation,business correspondence
-proposal,business correspondence
-recommendation,business correspondence
-decision,business correspondence
-implementation,business correspondence
-evaluation,business correspondence
-feedback,business correspondence
-review,business correspondence
-audit,business correspondence
-compliance,business correspondence
-regulation,business correspondence
-policy,business correspondence
-procedure,business correspondence
-protocol,business correspondence
-standard,business correspondence
-benchmark,business correspondence
-best,business correspondence
-practices,business correspondence
-optimization,business correspondence
-efficiency,business correspondence
-productivity,business correspondence
-performance,business correspondence
-effectiveness,business correspondence
-excellence,business correspondence
-innovation,business correspondence
-adaptation,business correspondence
-continuity,business correspondence
-stability,business correspondence
-reputation,business correspondence
-branding,business correspondence
-image,business correspondence
-legacy,business correspondence
-work,business correspondence
-job,business correspondence
-career,business correspondence
-employment,business correspondence
-office,business correspondence
-workplace,business correspondence
-colleagues,business correspondence
-team,business correspondence
-manager,business correspondence
-supervisor,business correspondence
-employee,business correspondence
-employer,business correspondence
-staff,business correspondence
-company,business correspondence
-organization,business correspondence
-business,business correspondence
-industry,business correspondence
-sector,business correspondence
-corporation,business correspondence
-firm,business correspondence
-enterprise,business correspondence
-professionalism,business correspondence
-ethical,business correspondence
-integrity,business correspondence
-accountability,business correspondence
-responsibility,business correspondence
-initiative,business correspondence
-efficiency,business correspondence
-productivity,business correspondence
-effectiveness,business correspondence
-performance,business correspondence
-achievement,business correspondence
-success,business correspondence
-goal,business correspondence
-objective,business correspondence
-target,business correspondence
-deadline,business correspondence
-project,business correspondence
-task,business correspondence
-assignment,business correspondence
-responsibility,business correspondence
-role,business correspondence
-position,business correspondence
-title,business correspondence
-promotion,business correspondence
-progress,business correspondence
-development,business correspondence
-growth,business correspondence
-improvement,business correspondence
-innovation,business correspondence
-change,business correspondence
-adaptability,business correspondence
-flexibility,business correspondence
-communication,business correspondence
-collaboration,business correspondence
-cooperation,business correspondence
-teamwork,business correspondence
-leadership,business correspondence
-management,business correspondence
-supervision,business correspondence
-delegation,business correspondence
-decision-making,business correspondence
-problem-solving,business correspondence
-critical,business correspondence
-thinking,business correspondence
-analytical,business correspondence
-strategic,business correspondence
-planning,business correspondence
-organizing,business correspondence
-scheduling,business correspondence
-budgeting,business correspondence
-forecasting,business correspondence
-analysis,business correspondence
-reporting,business correspondence
-documentation,business correspondence
-presentation,business correspondence
-meeting,business correspondence
-conference,business correspondence
-seminar,business correspondence
-workshop,business correspondence
-training,business correspondence
-mentorship,business correspondence
-coaching,business correspondence
-feedback,business correspondence
-review,business correspondence
-evaluation,business correspondence
-assessment,business correspondence
-performance,business correspondence
-appraisal,business correspondence
-recognition,business correspondence
-reward,business correspondence
-compensation,business correspondence
-benefits,business correspondence
-salary,business correspondence
-pay,business correspondence
-wage,business correspondence
-bonus,business correspondence
-incentive,business correspondence
-perks,business correspondence
-professional,business correspondence
-development,business correspondence
-networking,business correspondence
-etiquette,business correspondence
-headline,news
-article,news
-news,news
-report,news
-story,news
-coverage,news
-breaking,news
-latest,news
-update,news
-exclusive,news
-analysis,news
-opinion,news
-editorial,news
-feature,news
-investigative,news
-expose,news
-press,news
-media,news
-journalist,news
-reporter,news
-correspondent,news
-anchor,news
-presenter,news
-journal,news
-newspaper,news
-magazine,news
-publication,news
-press,news
-release,news
-source,news
-interview,news
-quote,news
-statement,news
-fact,news
-information,news
-details,news
-evidence,news
-data,news
-statistics,news
-research,news
-findings,news
-witness,news
-eye-witness,news
-account,news
-testimony,news
-documentation,news
-proof,news
-verification,news
-confirmation,news
-clarification,news
-correction,news
-retraction,news
-update,news
-announcement,news
-event,news
-incident,news
-development,news
-trend,news
-phenomenon,news
-issue,news
-concern,news
-crisis,news
-scandal,news
-controversy,news
-debate,news
-discussion,news
-reaction,news
-response,news
-criticism,news
-comment,news
-feedback,news
-reaction,news
-public,news
-audience,news
-reader,news
-viewer,news
-listener,news
-consumer,news
-subscriber,news
-viewer,news
-rating,news
-viewership,news
-readership,news
-circulation,news
-edition,news
-section,news
-column,news
-byline,news
-masthead,news
-dateline,news
-lead,news
-intro,news
-body,news
-conclusion,news
-summary,news
-recap,news
-synopsis,news
-background,news
-context,news
-implication,news
-impact,news
-breaking,news
-latest,news
-update,news
-exclusive,news
-report,news
-story,news
-coverage,news
-headline,news
-article,news
-news,news
-developments,news
-events,news
-incidents,news
-situations,news
-updates,news
-newsworthy,news
-press,news
-media,news
-journalist,news
-reporter,news
-correspondent,news
-anchor,news
-presenter,news
-broadcast,news
-coverage,news
-footage,news
-live,news
-interview,news
-statement,news
-announcement,news
-briefing,news
-press,news
-conference,news
-event,news
-incident,news
-accident,news
-disaster,news
-crisis,news
-emergency,news
-tragedy,news
-scandal,news
-controversy,news
-debate,news
-discussion,news
-analysis,news
-commentary,news
-opinion,news
-perspective,news
-point,news
-view,news
-fact,news
-information,news
-details,news
-data,news
-evidence,news
-source,news
-witness,news
-testimony,news
-documentation,news
-verification,news
-confirmation,news
-update,news
-recap,news
-summary,news
-overview,news
-background,news
-context,news
-implication,news
-impact,news
-influence,news
-effect,news
-outcome,news
-result,news
-consequence,news
-reaction,news
-response,news
-feedback,news
-criticism,news
-comment,news
-viewer,news
-audience,news
-reader,news
-listener,news
-consumer,news
-public,news
-community,news
-citizen,news
-resident,news
-viewer,news
-reader,news
-listener,news
-recipient,news
-consumer,news
-viewer,news
-audience,news
-circulation,news
-edition,news
-section,news
-column,news
-byline,news
-announcement,news
-press,news
-release,news
-statement,news
-news,news
-media,news
-public,news
-company,news
-organization,news
-business,news
-event,news
-launch,news
-introduction,news
-unveiling,news
-debut,news
-premiere,news
-opening,news
-revealing,news
-introduction,news
-presentation,news
-disclosure,news
-declaration,news
-communication,news
-information,news
-update,news
-briefing,news
-bulletin,news
-report,news
-message,news
-notice,news
-bulletin,news
-declaration,news
-notice,news
-alert,news
-memo,news
-dispatch,news
-communication,news
-statement,news
-release,news
-media,news
-advisory,news
-public,news
-notice,news
-announcement,news
-presser,news
-press,news
-conference,news
-presser,news
-media,news
-briefing,news
-media,news
-release,news
-publicity,news
-exposure,news
-coverage,news
-attention,news
-coverage,news
-exposure,news
-attention,news
-interest,news
-promotion,news
-advertisement,news
-publicity,news
-exposure,news
-recognition,news
-reputation,news
-visibility,news
-acknowledgment,news
-noticeability,news
-popularity,news
-fame,news
-recognition,news
-reputation,news
-image,news
-brand,news
-recognition,news
-reputation,news
-image,news
-branding,news
-promotion,news
-marketing,news
-campaign,news
-advertising,news
-promotion,news
-marketing,news
-campaign,news
-advertising,news
-endorsement,news
-sponsorship,news
-partnership,news
-collaboration,news
-cooperation,news
-association,news
-alliance,news
-affiliation,news
-connection,news
-tie-up,news
-link,news
-relation,news
-relationship,news
-connection,news
-affiliation,news
-association,news
-collaboration,news
-partnership,news
 story,creative writing
 plot,creative writing
 character,creative writing
@@ -1751,65 +972,411 @@ program,government
 initiative,government
 project,government
 task,government
-assignment,government
-plan,government
-strategy,government
-policy,government
-procedure,government
-protocol,government
-guideline,government
-directive,government
-regulation,government
-rule,government
-code,government
-standard,government
-benchmark,government
-objective,government
-goal,government
-target,government
-performance,government
-evaluation,government
-review,government
-analysis,government
-report,government
-audit,government
-assessment,government
-monitoring,government
-surveillance,government
-inspection,government
-oversight,government
-compliance,government
-enforcement,government
-implementation,government
-action,government
-initiative,government
-strategy,government
-plan,government
-program,government
-project,government
-task,government
-activity,government
-operation,government
-function,government
-service,government
-process,government
-procedure,government
-protocol,government
-system,government
-framework,government
-structure,government
-method,government
-approach,government
-practice,government
-model,government
-strategy,government
-tactic,government
-technique,government
-methodology,government
-approach,government
-principle,government
-rule,government
-guideline,government
-standard,government
-
-
+sender,business correspondence
+recipient,business correspondence
+subject,business correspondence
+body,business correspondence
+attachment,business correspondence
+inbox,business correspondence
+outbox,business correspondence
+drafts,business correspondence
+sent,business correspondence
+items,business correspondence
+trash,business correspondence
+junk,business correspondence
+mail,business correspondence
+forward,business correspondence
+reply,business correspondence
+cc,business correspondence
+bcc,business correspondence
+signature,business correspondence
+header,business correspondence
+footer,business correspondence
+priority,business correspondence
+flag,business correspondence
+mark,business correspondence
+read,business correspondence
+unread,business correspondence
+archive,business correspondence
+folder,business correspondence
+filter,business correspondence
+search,business correspondence
+sort,business correspondence
+spam,business correspondence
+label,business correspondence
+preview,business correspondence
+dear,business correspondence
+sincerely,business correspondence
+regards,business correspondence
+thank,business correspondence
+please,business correspondence
+attached,business correspondence
+enclosed,business correspondence
+reference,business correspondence
+inquire,business correspondence
+email,business correspondence
+appreciate,business correspondence
+prompt,business correspondence
+apologize,business correspondence
+inconvenience,business correspondence
+cooperation,business correspondence
+greatly,business correspondence
+appreciated,business correspondence
+hesitate,business correspondence
+contact,business correspondence
+questions,business correspondence
+best,business correspondence
+faithfully,business correspondence
+look,business correspondence
+forward,business correspondence
+hearing,business correspondence
+soon.,business correspondence
+corporate,business correspondence
+professional,business correspondence
+management,business correspondence
+executive,business correspondence
+leadership,business correspondence
+teamwork,business correspondence
+collaboration,business correspondence
+strategy,business correspondence
+planning,business correspondence
+organization,business correspondence
+efficiency,business correspondence
+productivity,business correspondence
+innovation,business correspondence
+excellence,business correspondence
+quality,business correspondence
+integrity,business correspondence
+ethics,business correspondence
+accountability,business correspondence
+responsibility,business correspondence
+authority,business correspondence
+decision-making,business correspondence
+communication,business correspondence
+negotiation,business correspondence
+diplomacy,business correspondence
+networking,business correspondence
+relationship,business correspondence
+partnership,business correspondence
+cooperation,business correspondence
+synergy,business correspondence
+collaboration,business correspondence
+coordination,business correspondence
+liaison,business correspondence
+interaction,business correspondence
+engagement,business correspondence
+initiative,business correspondence
+resourcefulness,business correspondence
+adaptability,business correspondence
+flexibility,business correspondence
+resilience,business correspondence
+problem-solving,business correspondence
+critical,business correspondence
+thinking,business correspondence
+analytical,business correspondence
+strategic,business correspondence
+visionary,business correspondence
+goal-oriented,business correspondence
+results-driven,business correspondence
+performance,business correspondence
+achievement,business correspondence
+success,business correspondence
+progress,business correspondence
+development,business correspondence
+growth,business correspondence
+expansion,business correspondence
+market,business correspondence
+competition,business correspondence
+customer,business correspondence
+client,business correspondence
+stakeholder,business correspondence
+shareholder,business correspondence
+investor,business correspondence
+revenue,business correspondence
+profit,business correspondence
+cost,business correspondence
+budget,business correspondence
+forecast,business correspondence
+analysis,business correspondence
+report,business correspondence
+presentation,business correspondence
+proposal,business correspondence
+recommendation,business correspondence
+decision,business correspondence
+implementation,business correspondence
+evaluation,business correspondence
+feedback,business correspondence
+review,business correspondence
+audit,business correspondence
+compliance,business correspondence
+regulation,business correspondence
+policy,business correspondence
+procedure,business correspondence
+standard,business correspondence
+benchmark,business correspondence
+headline,news
+article,news
+news,news
+report,news
+story,news
+coverage,news
+breaking,news
+latest,news
+update,news
+exclusive,news
+analysis,news
+opinion,news
+editorial,news
+feature,news
+investigative,news
+expose,news
+press,news
+media,news
+journalist,news
+reporter,news
+correspondent,news
+anchor,news
+presenter,news
+journal,news
+newspaper,news
+magazine,news
+publication,news
+release,news
+source,news
+interview,news
+quote,news
+statement,news
+fact,news
+information,news
+details,news
+evidence,news
+data,news
+statistics,news
+research,news
+findings,news
+witness,news
+eye-witness,news
+account,news
+testimony,news
+documentation,news
+proof,news
+verification,news
+confirmation,news
+clarification,news
+correction,news
+retraction,news
+update,news
+announcement,news
+event,news
+incident,news
+development,news
+trend,news
+phenomenon,news
+issue,news
+concern,news
+crisis,news
+scandal,news
+controversy,news
+debate,news
+discussion,news
+reaction,news
+response,news
+criticism,news
+comment,news
+feedback,news
+public,news
+audience,news
+reader,news
+viewer,news
+listener,news
+consumer,news
+subscriber,news
+viewer,news
+rating,news
+viewership,news
+readership,news
+circulation,news
+edition,news
+section,news
+column,news
+byline,news
+masthead,news
+dateline,news
+lead,news
+intro,news
+body,news
+conclusion,news
+summary,news
+recap,news
+synopsis,news
+background,news
+context,news
+implication,news
+impact,news
+breaking,news
+latest,news
+update,news
+exclusive,news
+report,news
+story,news
+coverage,news
+headline,news
+article,news
+news,news
+developments,news
+events,news
+incidents,news
+situations,news
+updates,news
+newsworthy,news
+press,news
+media,news
+journalist,news
+reporter,news
+correspondent,news
+anchor,news
+presenter,news
+broadcast,news
+coverage,news
+footage,news
+live,news
+interview,news
+statement,news
+announcement,news
+briefing,news
+press,news
+conference,news
+event,news
+incident,news
+accident,news
+disaster,news
+crisis,news
+emergency,news
+tragedy,news
+scandal,news
+controversy,news
+debate,news
+discussion,news
+analysis,news
+commentary,news
+opinion,news
+perspective,news
+word,category
+plaintiff,legal
+defendant,legal
+plaintiff's,legal
+defendant's,legal
+court,legal
+judgment,legal
+jurisdiction,legal
+evidence,legal
+hearsay,legal
+witness,legal
+testimony,legal
+affidavit,legal
+deposition,legal
+notary,legal
+attorney,legal
+counsel,legal
+brief,legal
+petition,legal
+complaint,legal
+summons,legal
+motion,legal
+hearing,legal
+subpoena,legal
+pleadings,legal
+discovery,legal
+verdict,legal
+appeal,legal
+precedent,legal
+contract,legal
+agreement,legal
+clause,legal
+liability,legal
+negligence,legal
+damages,legal
+breach,legal
+remedy,legal
+settlement,legal
+waiver,legal
+statute,legal
+regulation,legal
+negotiation,legal
+mediation,legal
+arbitration,legal
+amicable,legal
+consent,legal
+dismissal,legal
+judicial,legal
+legislation,legal
+constitution,legal
+due process,legal
+litigation,legal
+admissible,legal
+cross-examination,legal
+allegation,legal
+injunction,legal
+tort,legal
+plaintiff's,legal
+counsel,legal
+defendant's,legal
+counsel,legal
+briefing,legal
+camera,legal
+jurisprudence,legal
+pretrial,legal
+prosecution,legal
+defense,legal
+misdemeanor,legal
+felony,legal
+perjury,legal
+probation,legal
+parole,legal
+subpoena,legal
+duces,legal
+tecum,legal
+restitution,legal
+exclusionary,legal
+rule,legal
+precedent,legal
+testament,legal
+executor,legal
+intestate,legal
+affirmation,legal
+oath,legal
+notarize,legal
+negotiable,legal
+instrument,legal
+bail,legal
+arraignment,legal
+mitigating,legal
+circumstances,legal
+lien,legal
+adjudication,legal
+amicus,legal
+curiae,legal
+consideration,legal
+statute,legal
+limitations,legal
+contingency,legal
+terms,legal
+use,legal
+binding,legal
+agreement,legal
+disclosures,legal
+modification,legal
+regulation,legal
+liability,legal
+copyright,legal
+indemnification,legal
+contract,legal
+customer,legal
+validity,legal
+agreements,legal
+liability,legal
+consequential,legal
+incidental,legal
+special,legal
+direct,legal
+indirect,legal
