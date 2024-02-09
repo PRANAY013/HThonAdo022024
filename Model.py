@@ -59,9 +59,11 @@ def predict_category_from_text(extracted_text, model, combined_df_path):
         print(f"Error during data processing: {e}")
         return None
     
+#example test case
+    
 if __name__ == '__main__':
-    mypdf = r"Data/patient-record.pdf"
-    mydata = r"Data/combined_data.csv"
+    mypdf = r"Data\8.pdf"
+    mydata = r"Data\combined_data.csv"
     text = extract_text_combined(mypdf)
     category = predict_category_from_text(text, model=None, combined_df_path=mydata)
     print(category)
