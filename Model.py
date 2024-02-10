@@ -1,7 +1,7 @@
 from PIL import Image
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.svm import SVC
+from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import make_pipeline
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -37,7 +37,7 @@ def predict_category_from_text(extracted_text, model, combined_df_path):
             combined_df['word'] = combined_df['word'].apply(preprocess_text)
 
             # Create a TF-IDF model with SVM classifier
-            model = make_pipeline(TfidfVectorizer(), SVC())
+            model = make_pipeline(TfidfVectorizer(),MultinomialNB())
 
             # Train the model
             X = combined_df['word']
