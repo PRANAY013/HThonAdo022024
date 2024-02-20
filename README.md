@@ -41,5 +41,3 @@ python Model.py
 Feel free to contribute to this project by forking and submitting a pull request.
 
 ---
-
-Please replace `[Your Name]` and `[Your Email]` with your information. Let me know if you need any further modifications or additions!
