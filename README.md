@@ -33,8 +33,10 @@ python Model.py
 
 ## Contributors
 
-- [Your Name]
-- [Your Email]
+- Raghav Aloria raghavaloria@gmail.com
+- Pranay Pandey pranaypandey2005@gmail.com
+- Sarthak Sinha sarthaksinha2010@gmail.com
+- Arpit Verma picarpitverma@gmail.com
 
 Feel free to contribute to this project by forking and submitting a pull request.
 
